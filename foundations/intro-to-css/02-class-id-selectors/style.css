@@ -1,0 +1,18 @@
+.classt {
+    background-color: pink;
+    font-family: verdana, DejaVu sSans, sans-sereif;
+}
+
+.classt.diff {
+    font-size: 36px;
+}
+
+#odd {
+    color: blue;
+    font-size: 36px;
+}
+
+#odd2 {
+    background-color:lightgreen;
+    font-size: 24px;
+}
